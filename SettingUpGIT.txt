@@ -1,0 +1,15 @@
+Download GIT and make GIThub account
+
+Make Project Folder
+
+Fill folder w/ stuff
+
+Initialize folder as a FIT repository
+
+Add to repository
+
+Committ changes
+
+Connect repository to GIThub
+
+Push repository to GIThub
